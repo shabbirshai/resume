@@ -1,0 +1,44 @@
+{
+  "basics":{
+    "photo":"Tulips.jpg",
+    "name":"shabbir",
+    "phoneno":"9030128124",
+    "email":"sk.shabbirchotu1@gmail.com",
+    "address":"(s/o)Jani,R.R.PET,Eluru,AP"
+
+  },
+  "education":[
+    {
+ "course":"B.tech(computer science and engineering )",
+ "institute":"CR REDDY ENGINEERING COLLEGE",
+ "data":["2015-2019","90%"]
+    },
+
+{
+  "course":"polytechnic",
+  "institute":"sir c rr college",
+  "data":["2013-2016","95%"]
+},
+{
+  "course":"SSC",
+  "institute":"s.e.s.d.m.c high school",
+  "data":["2006-2012"]
+
+}
+],
+"skills":[
+  {
+    "name":"languages",
+"data":["c","JAVA","php"]
+},
+{
+  "name":"WEB technologies",
+  "data":["HTML","CSS","php"]
+
+},
+  {
+    "name":"OS",
+    "data":["WINDOWS","LINUX","UNIX"]
+  }
+]
+}
